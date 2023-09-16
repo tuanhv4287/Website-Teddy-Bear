@@ -17,12 +17,14 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations'
 import { ReactiveFormsModule } from '@angular/forms';
 import { MatAutocompleteModule } from '@angular/material/autocomplete';
 import { WrapperComponent } from './components/wrapper/wrapper/wrapper.component';
+import { HeaderComponent } from './components/wrapper/header/header.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HomeComponent,
     WrapperComponent,
+    HeaderComponent
   ],
   imports: [
     BrowserModule,

@@ -5,6 +5,7 @@ import { ReactiveFormsModule } from '@angular/forms';
 import { MatFormFieldModule } from '@angular/material/form-field';
 import { DangNhapComponent } from './pages/home/dang-nhap/dang-nhap.component';
 import { DangKyComponent } from './pages/home/dang-ky/dang-ky.component';
+import { HeaderComponent } from './wrapper/header/header.component';
 
 @NgModule({
   imports: [
@@ -14,10 +15,9 @@ import { DangKyComponent } from './pages/home/dang-ky/dang-ky.component';
     ReactiveFormsModule,
   ],
   declarations: [
-
-
     DangNhapComponent,
-    DangKyComponent
+    DangKyComponent,
+    // HeaderComponent,
   ],
   // entryComponents: [
 

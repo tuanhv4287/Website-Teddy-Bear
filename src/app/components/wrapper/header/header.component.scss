@@ -1,0 +1,82 @@
+@import "/src/colors";
+
+
+  // .wrapper-nav-header{
+  //   .wrapper-nav-header{
+  //     .account {
+  //       .btn-tai-khoan {
+  //         outline: 0;
+  //       }
+  //       .btn-tai-khoan:focus,
+  //       .btn-outline-secondary:focus {
+  //         outline: none !important;
+  //         border-color: none !important;
+  //         box-shadow: none;
+  //       }
+  //       .btn-outline-secondary:hover {
+  //         background-color: transparent;
+  //       }
+  //       label {
+  //         font-size: 11px;
+  //         margin-left: 5px;
+  //         cursor: pointer;
+  //       }
+  //     }
+  //     width: 100%;
+  //     height: min-content;
+  //     left: 0px;
+  //     top: 0px;
+  //     background: $backgroundlinear;
+  //     background-blend-mode: darken;
+  //     display: flex;
+  //     align-items: center;
+  //     @media screen and (max-width: 425px) {
+  //       justify-content: space-between;
+  //       height: 80px;
+  //     }
+  //     @media screen and (max-width: 425px) {
+  //       height: 90px;
+  //     }
+  //     &-title {
+  //       font-family: Roboto;
+  //       font-style: normal;
+  //       font-weight: bold;
+  //       font-size: 32px;
+  //       line-height: 37px;
+  //       /* identical to box height */
+
+  //       display: flex;
+  //       align-items: center;
+  //       text-align: center;
+
+  //       color: #ffffff;
+  //       margin: 0 8px;
+  //       padding: 0;
+  //       width: 100%;
+  //       justify-content: space-between;
+  //       flex-flow: row wrap;
+  //       h1,
+  //       h3,
+  //       h4,
+  //       h5,
+  //       h6 {
+  //         margin: 0;
+  //       }
+  //       @media screen and (max-width: 425px) {
+  //         font-size: 1rem !important;
+  //         &-sub {
+  //           display: none;
+  //         }
+  //         flex-flow: column;
+  //       }
+  //       @media screen and (max-width: 768px) {
+  //         font-size: 1.5rem;
+  //       }
+  //     }
+  //   }
+  // }
+
+.Logo{
+  width: 150px;
+  height: 150px;
+}
